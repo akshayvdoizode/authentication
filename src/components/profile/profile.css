@@ -1,0 +1,13 @@
+.root {
+  display: flex;
+  width: 25%;
+  margin: auto;
+  padding: 10px;
+  margin-bottom: 15px;
+  flex-wrap: wrap;
+  margin-top: 15px;
+  flex-direction: column;
+}
+.div {
+  display: flex !important;
+}

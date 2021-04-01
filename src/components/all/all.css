@@ -1,0 +1,22 @@
+.members {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  flex-wrap: wrap;
+}
+
+.demo {
+  width: 350px;
+}
+
+.data {
+  width: 25%;
+}
+.btn1 {
+  margin-top: 50px;
+  background-color: rgb(60, 78, 94);
+  color: rgba(9, 48, 48, 0.281);
+  border-radius: 50%;
+  text-align: center;
+}
